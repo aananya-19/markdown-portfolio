@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am an Indian citizen*
+_I live in Delhi_
+
+**I like coding specially in C++**
+__I have experience in public speaking__
+
+_Most importantly I am extremely **hardworking** _
